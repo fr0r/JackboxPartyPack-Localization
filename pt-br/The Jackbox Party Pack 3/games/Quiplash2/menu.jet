@@ -1,30 +1,30 @@
 [
     {
-        "title":"PLAY GAME",
+        "title":"Começar Jogo",
         "action":"doPlayGame",
         "description":"Criar uma sala e jogar",
         "value":0
     },
     {
-        "title":"MAKE YOUR OWN",
+        "title":"Criar Questões",
         "action":"doUGC",
-        "description":"Criar seus próprios comandos",
+        "description":"Criar suas proprias questões",
         "value":1
     },
     {
-        "title":"LEADERBOARD",
+        "title":"Tabela de Classificações",
         "action":"doLeaderboards",
         "description":"Acompanhe as estatísticas de seus jogos recentes",
         "value":2
     },
     {
-        "title":"SETTINGS",
+        "title":"Configurações",
         "action":"doSettings",
         "description":"Filtro Familiar, Opções de Público e mais",
         "value":3
     },
     {
-        "title":"BACK TO PACK",
+        "title":"Voltar",
         "action":"doBackToPack",
         "description":"Voltar ao Party Pack",
         "value":4
